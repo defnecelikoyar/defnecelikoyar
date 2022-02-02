@@ -8,3 +8,5 @@
 - 🔮 ask me about: VanillaJS, React, Ruby on Rails
 - 🕹 reach me: defne.celikoyar@gmail.com
 - 🧞‍♀️ fun fact: my name is phonetic...
+
+![](https://komarev.com/ghpvc/?username=defnecelikoyar)
