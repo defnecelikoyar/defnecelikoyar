@@ -1,4 +1,4 @@
-<h1 align="center"> hi 🧿 I'm Defne </h1>
+<h2 align="center"> hi 🧿 I'm Defne </h2>
 
 - 🥀 pronouns: she/her
 - 🧪 currently working on: Istanpaulo Online Arthouse
