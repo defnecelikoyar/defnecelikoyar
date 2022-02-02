@@ -1,4 +1,4 @@
-### hi 🧿 I'm defne
+### welcome 🧿 I'm defne
 - 🥀 pronouns: she/her
 - 🧪 currently working on: [Istanpaulo Online Arthouse](https://github.com/defnecelikoyar/istanpaulo_frontend)
 - 🦇 currently learning: Python & Vue
