@@ -9,4 +9,5 @@
 - 🕹 reach me: defne.celikoyar@gmail.com
 - 🧞‍♀️ fun fact: my name is phonetic...
 
-![](https://komarev.com/ghpvc/?username=defnecelikoyar)
+
+![](https://komarev.com/ghpvc/?username=defnecelikoyar&color=yellowgreen&style=flat-square)
