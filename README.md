@@ -14,4 +14,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=defnecelikoyar&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=defnecelikoyar&repo=github-readme-stats)](https://github.com/defnecelikoyar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defnecelikoyar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
