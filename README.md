@@ -1,7 +1,7 @@
 ### hi 🧿 I'm defne
 - 🥀 pronouns: she/her
 - 🧪 currently working on: [Istanpaulo Online Arthouse](https://github.com/defnecelikoyar/istanpaulo_frontend)
-- 🦇 currently learning: Vue & Python
+- 🦇 currently learning: Python & Vue
 - ⛓ looking to collaborate on: interactive media experiences
 - 🆘 looking for help with: [Slippy](https://github.com/SirDigo/Phase-2-New-Slippy-Project), the point-and-click game I built for my bootcamp
 - 🔮 ask me about: VanillaJS, React, Ruby on Rails
