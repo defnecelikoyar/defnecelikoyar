@@ -1,10 +1,10 @@
-### Hi🧿 I'm Defne
+### hi 🧿 I'm Defne
 
-- 🔭 I’m currently working on Istanpaulo Online Arthouse
-- 🌱 I’m currently learning Vue & Python
-- 👯 I’m looking to collaborate on interactive media experiences
-- 🤔 I’m looking for help with Slippy, the point-and-click game I built for my bootcamp
-- 💬 Ask me about VanillaJS, React, Ruby on Rails
-- 📫 How to reach me: defne.celikoyar@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: My name is phonetic...
+- 🦹🏻‍♀️ pronouns: she/her
+- 🔭 currently working on: Istanpaulo Online Arthouse
+- 🌱 currently learning: Vue & Python
+- 👯 looking to collaborate on: interactive media experiences
+- 🤔 looking for help with: Slippy, the point-and-click game I built for my bootcamp
+- 💬 ask me about: VanillaJS, React, Ruby on Rails
+- 📫 reach me: defne.celikoyar@gmail.com
+- ⚡ fun fact: my name is phonetic...
