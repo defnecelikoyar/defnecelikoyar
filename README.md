@@ -1,6 +1,6 @@
 ### hi 🧿 I'm Defne
 
-- 🦹🏻‍♀️ pronouns: she/her
+- 🧞‍♀️ pronouns: she/her
 - 🔭 currently working on: Istanpaulo Online Arthouse
 - 🌱 currently learning: Vue & Python
 - 👯 looking to collaborate on: interactive media experiences
