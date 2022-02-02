@@ -13,6 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=defnecelikoyar&color=yellowgreen&style=flat-square&label=VIEWS)
 
 now listening:
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=defnecelikoyar&cover_image=true&theme=natemoo-re&bar_color=ab4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defnecelikoyar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
