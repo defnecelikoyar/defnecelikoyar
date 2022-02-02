@@ -10,4 +10,4 @@
 - 🧞‍♀️ fun fact: my name is phonetic...
 
 
-![](https://komarev.com/ghpvc/?username=defnecelikoyar&color=yellowgreen&style=flat-square)
+![](https://komarev.com/ghpvc/?username=defnecelikoyar&color=yellowgreen&style=flat-square&label=VIEWS)
