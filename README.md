@@ -11,3 +11,5 @@
 
 
 ![](https://komarev.com/ghpvc/?username=defnecelikoyar&color=yellowgreen&style=flat-square&label=VIEWS)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=defnecelikoyar&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
